@@ -61,10 +61,10 @@ All live, all built with **SvelteKit + typed server endpoints** against real pub
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Public GitHub Stats
 
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=larsomic&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larsomic&layout=compact&hide_border=true)
+![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=larsomic&show_icons=true&hide_border=true&include_all_commits=true&hide_rank=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larsomic&layout=compact&hide_border=true&langs_count=8)
 
 ---
 
